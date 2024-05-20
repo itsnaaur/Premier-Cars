@@ -1,5 +1,5 @@
 Project Overview
-Project Name: Stock Management System Improvement for Retail Client
+Project Name: Stock Management System Improvement for Retail Client (PREMIER CARS)
 
 Purpose: Develop a more efficient and streamlined system for stock management, re-ordering, and dispatch processing using Liferay.
 
